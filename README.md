@@ -9,7 +9,11 @@ Please observe account naming conventions below.
 - firstname_lastname
 - firstname-lastname
 - firstname.lastname
-- firstnamelastname@mail.com
+- firstnamelastname
+- lastnamefirstname
+- lastname_lastname
+- lastname-firstname
+- lastname.firstname
 
 ## Picture ID convention
 Please provide appropriate account pictures that will identify you by face.
