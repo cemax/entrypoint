@@ -18,7 +18,7 @@ Please observe account naming conventions below.
 ## Picture ID convention
 Please provide appropriate account pictures that will identify you by face.
 80% of the picture should be your own face.
-Please do not use the pictures below.
+Please **DO NOT USE** the pictures below.
 
 - Cartoons
 - Anime
