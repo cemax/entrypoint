@@ -33,7 +33,7 @@ Please click the link below to create the required accounts.
 > https://github.com/cemax/entrypoint/blob/master/accounts.md
 
 ## Slack
-Using the new gmail account, please email jangmaghuyop@gmail.com to
+Using the new gmail account, please email cemax.web.mail@gmail.com to
 send an invite to the slack group. Please check your email for
 the invite.
 > Please keep your slack app online if you have internet access.
