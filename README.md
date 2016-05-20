@@ -26,7 +26,7 @@ Please do not use the pictures below.
 
 ## Accounts
 Please click the link below to create the required accounts.
-> https://github.com/cemax/cemax/blob/master/accounts.md
+> https://github.com/cemax/entrypoint/blob/master/accounts.md
 
 ## Slack
 Using the new gmail account, please email jangmaghuyop@gmail.com to
@@ -36,9 +36,9 @@ the invite.
 
 ## Mobile Apps
 Please click the link below to install required mobile apps.
-> https://github.com/cemax/cemax/blob/master/mobile.md
+> https://github.com/cemax/entrypoint/blob/master/mobile.md
 
 ## Computer setup
 Please click the link below to install your desired operating
 system in your machine.
-> https://github.com/cemax/cemax/blob/master/computer.md
+> https://github.com/cemax/entrypoint/blob/master/computer.md
