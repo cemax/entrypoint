@@ -5,6 +5,8 @@ Please browse and click your desired operating system below.
 ## Windows
 
 ## Linux
+- Ubuntu
 - [Ubuntu Mate] (https://github.com/cemax/ubuntu-mate-bootstrap/blob/master/README.md)
+- Fedora
 
 ## Macintosh
