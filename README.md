@@ -37,6 +37,7 @@ Using the new gmail account, please email cemax.web.mail@gmail.com to
 send an invite to the slack group. Please check your email for
 the invite.
 > Please keep your slack app online if you have internet access.
+> Don't forget to always enable notifications.
 
 ## Mobile Apps
 Please click the link below to install required mobile apps.
