@@ -8,5 +8,6 @@ Please browse and click your desired operating system below.
 - Ubuntu
 - [Ubuntu Mate] (https://github.com/cemax/ubuntu-mate-bootstrap/blob/master/README.md)
 - Fedora
+- Linux Mint
 
 ## Macintosh
