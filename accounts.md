@@ -7,6 +7,7 @@ Please create the following accounts using the naming conventions.
 - skype.com
 - linkedin.com
 - chikka.com
+- gravatar.com
 
 ## Programmers
 - github.com

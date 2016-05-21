@@ -47,3 +47,7 @@ Please click the link below to install required mobile apps.
 Please click the link below to install your desired operating
 system in your machine.
 > https://github.com/cemax/entrypoint/blob/master/computer.md
+
+## Contributing
+Please click the link below to follow contribution instructions.
+> https://github.com/cemax/contributing/blob/master/README.md
