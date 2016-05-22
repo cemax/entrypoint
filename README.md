@@ -48,6 +48,12 @@ Please click the link below to install your desired operating
 system in your machine.
 > https://github.com/cemax/entrypoint/blob/master/computer.md
 
+# Learn
+> https://github.com/cemax/entrypoint/blob/master/learn.md
+
+# Group sites
+> https://github.com/cemax/entrypoint/blob/master/sites.md
+
 ## Contributing
 Please click the link below to follow contribution instructions.
 > https://github.com/cemax/contributing/blob/master/README.md
